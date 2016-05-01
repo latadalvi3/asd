@@ -6,7 +6,7 @@ void main()
 	scanf("%d",&a);
 	for(i=0;i<a;i++)
 	{
-		printf("No is %d",a);
+		printf("No is %d\n",a);
 		
 	}
 }
