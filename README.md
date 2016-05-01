@@ -1,2 +1,6 @@
 "# asd" 
+<<<<<<< HEAD
 hiiiii...
+=======
+helloo...
+>>>>>>> 75ab00ade6e28746ceef440a3c6ffb94ac71868b
